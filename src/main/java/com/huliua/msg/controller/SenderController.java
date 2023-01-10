@@ -24,10 +24,6 @@ public class SenderController {
     @Resource
     private AppConfig appConfig;
 
-    private static final String APPID = "xxxx";
-    private static final String APPSECRET = "xxx";
-    private static final String TPL_ID = "xxxxx-xxx";
-
     // openId
     private static final String myOpenId = "ozq716HmzO3xTT4OFLXk-4qlnJsI";
 
