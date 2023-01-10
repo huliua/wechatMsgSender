@@ -24,12 +24,9 @@ public class SenderController {
     @Resource
     private AppConfig appConfig;
 
-    /**
-     * 沈阳体育
-     */
-    private static final String APPID = "wx653dba3c4fb639c8";
-    private static final String APPSECRET = "73a441da1eec1b9563976ad6a6e38c07";
-    private static final String TPL_ID = "PCKyMF3sk9a1bokMtepaF2diB7gDKUSllc54c-RUfbo";
+    private static final String APPID = "xxxx";
+    private static final String APPSECRET = "xxx";
+    private static final String TPL_ID = "xxxxx-xxx";
 
     // openId
     private static final String myOpenId = "ozq716HmzO3xTT4OFLXk-4qlnJsI";
